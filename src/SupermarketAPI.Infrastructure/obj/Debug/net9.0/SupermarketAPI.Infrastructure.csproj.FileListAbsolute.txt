@@ -1,0 +1,17 @@
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\bin\Debug\net9.0\SupermarketAPI.Infrastructure.deps.json
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\bin\Debug\net9.0\SupermarketAPI.Infrastructure.runtimeconfig.json
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\bin\Debug\net9.0\SupermarketAPI.Infrastructure.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\bin\Debug\net9.0\SupermarketAPI.Infrastructure.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\bin\Debug\net9.0\SupermarketAPI.Domain.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\bin\Debug\net9.0\SupermarketAPI.Domain.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\obj\Debug\net9.0\SupermarketAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\obj\Debug\net9.0\SupermarketAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\obj\Debug\net9.0\SupermarketAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\obj\Debug\net9.0\SupermarketAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\obj\Debug\net9.0\SupermarketAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\obj\Debug\net9.0\Supermar.8CBBABC7.Up2Date
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\obj\Debug\net9.0\SupermarketAPI.Infrastructure.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\obj\Debug\net9.0\refint\SupermarketAPI.Infrastructure.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\obj\Debug\net9.0\SupermarketAPI.Infrastructure.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\obj\Debug\net9.0\SupermarketAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Infrastructure\obj\Debug\net9.0\ref\SupermarketAPI.Infrastructure.dll

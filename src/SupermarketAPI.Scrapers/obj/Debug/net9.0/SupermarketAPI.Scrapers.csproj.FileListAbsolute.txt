@@ -1,0 +1,17 @@
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\bin\Debug\net9.0\SupermarketAPI.Scrapers.deps.json
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\bin\Debug\net9.0\SupermarketAPI.Scrapers.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\bin\Debug\net9.0\SupermarketAPI.Scrapers.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\bin\Debug\net9.0\SupermarketAPI.Domain.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\bin\Debug\net9.0\SupermarketAPI.Infrastructure.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\bin\Debug\net9.0\SupermarketAPI.Domain.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\bin\Debug\net9.0\SupermarketAPI.Infrastructure.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\obj\Debug\net9.0\SupermarketAPI.Scrapers.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\obj\Debug\net9.0\SupermarketAPI.Scrapers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\obj\Debug\net9.0\SupermarketAPI.Scrapers.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\obj\Debug\net9.0\SupermarketAPI.Scrapers.AssemblyInfo.cs
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\obj\Debug\net9.0\SupermarketAPI.Scrapers.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\obj\Debug\net9.0\Supermar.6266AE81.Up2Date
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\obj\Debug\net9.0\SupermarketAPI.Scrapers.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\obj\Debug\net9.0\refint\SupermarketAPI.Scrapers.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\obj\Debug\net9.0\SupermarketAPI.Scrapers.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Scrapers\obj\Debug\net9.0\ref\SupermarketAPI.Scrapers.dll

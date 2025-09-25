@@ -1,0 +1,531 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.API\\SupermarketAPI.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.API\\SupermarketAPI.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.API\\SupermarketAPI.API.csproj",
+        "projectName": "SupermarketAPI.API",
+        "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.API\\SupermarketAPI.API.csproj",
+        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/subscription-factory/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Application\\SupermarketAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Application\\SupermarketAPI.Application.csproj"
+              },
+              "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Infrastructure\\SupermarketAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Infrastructure\\SupermarketAPI.Infrastructure.csproj"
+              },
+              "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Notifications\\SupermarketAPI.Notifications.csproj": {
+                "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Notifications\\SupermarketAPI.Notifications.csproj"
+              },
+              "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Scrapers\\SupermarketAPI.Scrapers.csproj": {
+                "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Scrapers\\SupermarketAPI.Scrapers.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.8.21, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.8.21, )"
+            },
+            "Hangfire.SQLite": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.9.17, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Application\\SupermarketAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Application\\SupermarketAPI.Application.csproj",
+        "projectName": "SupermarketAPI.Application",
+        "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Application\\SupermarketAPI.Application.csproj",
+        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/subscription-factory/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Domain\\SupermarketAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Domain\\SupermarketAPI.Domain.csproj"
+              },
+              "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Infrastructure\\SupermarketAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Infrastructure\\SupermarketAPI.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Domain\\SupermarketAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Domain\\SupermarketAPI.Domain.csproj",
+        "projectName": "SupermarketAPI.Domain",
+        "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Domain\\SupermarketAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/subscription-factory/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Infrastructure\\SupermarketAPI.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Infrastructure\\SupermarketAPI.Infrastructure.csproj",
+        "projectName": "SupermarketAPI.Infrastructure",
+        "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Infrastructure\\SupermarketAPI.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/subscription-factory/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Domain\\SupermarketAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Domain\\SupermarketAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Notifications\\SupermarketAPI.Notifications.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Notifications\\SupermarketAPI.Notifications.csproj",
+        "projectName": "SupermarketAPI.Notifications",
+        "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Notifications\\SupermarketAPI.Notifications.csproj",
+        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Notifications\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/subscription-factory/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Application\\SupermarketAPI.Application.csproj": {
+                "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Application\\SupermarketAPI.Application.csproj"
+              },
+              "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Infrastructure\\SupermarketAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Infrastructure\\SupermarketAPI.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Twilio": {
+              "target": "Package",
+              "version": "[7.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Scrapers\\SupermarketAPI.Scrapers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Scrapers\\SupermarketAPI.Scrapers.csproj",
+        "projectName": "SupermarketAPI.Scrapers",
+        "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Scrapers\\SupermarketAPI.Scrapers.csproj",
+        "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Scrapers\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.pkg.github.com/subscription-factory/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Domain\\SupermarketAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Domain\\SupermarketAPI.Domain.csproj"
+              },
+              "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Infrastructure\\SupermarketAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\vitor\\source\\repos\\Estudo\\vibecodingTest\\src\\SupermarketAPI.Infrastructure\\SupermarketAPI.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.12.3, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.35.0, )"
+            },
+            "Selenium.WebDriver.ChromeDriver": {
+              "target": "Package",
+              "version": "[140.0.7339.20700, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

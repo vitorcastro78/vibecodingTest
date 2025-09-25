@@ -1,0 +1,17 @@
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\bin\Debug\net9.0\SupermarketAPI.Application.deps.json
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\bin\Debug\net9.0\SupermarketAPI.Application.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\bin\Debug\net9.0\SupermarketAPI.Application.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\bin\Debug\net9.0\SupermarketAPI.Domain.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\bin\Debug\net9.0\SupermarketAPI.Infrastructure.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\bin\Debug\net9.0\SupermarketAPI.Domain.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\bin\Debug\net9.0\SupermarketAPI.Infrastructure.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\obj\Debug\net9.0\SupermarketAPI.Application.csproj.AssemblyReference.cache
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\obj\Debug\net9.0\SupermarketAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\obj\Debug\net9.0\SupermarketAPI.Application.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\obj\Debug\net9.0\SupermarketAPI.Application.AssemblyInfo.cs
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\obj\Debug\net9.0\SupermarketAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\obj\Debug\net9.0\Supermar.96BFEE8D.Up2Date
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\obj\Debug\net9.0\SupermarketAPI.Application.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\obj\Debug\net9.0\refint\SupermarketAPI.Application.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\obj\Debug\net9.0\SupermarketAPI.Application.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Application\obj\Debug\net9.0\ref\SupermarketAPI.Application.dll

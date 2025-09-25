@@ -1,0 +1,11 @@
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Domain\bin\Debug\net9.0\SupermarketAPI.Domain.deps.json
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Domain\bin\Debug\net9.0\SupermarketAPI.Domain.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Domain\bin\Debug\net9.0\SupermarketAPI.Domain.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Domain\obj\Debug\net9.0\SupermarketAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Domain\obj\Debug\net9.0\SupermarketAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Domain\obj\Debug\net9.0\SupermarketAPI.Domain.AssemblyInfo.cs
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Domain\obj\Debug\net9.0\SupermarketAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Domain\obj\Debug\net9.0\SupermarketAPI.Domain.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Domain\obj\Debug\net9.0\refint\SupermarketAPI.Domain.dll
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Domain\obj\Debug\net9.0\SupermarketAPI.Domain.pdb
+C:\Users\vitor\source\repos\Estudo\vibecodingTest\src\SupermarketAPI.Domain\obj\Debug\net9.0\ref\SupermarketAPI.Domain.dll
